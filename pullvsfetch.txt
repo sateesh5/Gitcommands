@@ -21,3 +21,5 @@ merge conflicts possible
 git pull command 
 
 git pull origin main 
+
+git stach command takes the umcommited changes save them away for later use and then reverts them from your working copy 
