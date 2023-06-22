@@ -1,0 +1,23 @@
+Git Fetch
+============
+Gives the information of a new change from a remote repository without merging into the current branch
+
+no possible for merge conficts
+
+Repository data is updated in the .git directory
+
+git fetch command
+
+git fetch origin 
+
+
+Git Pull
+=========
+
+Brings the copy of all changes from remote repository and merge them in to a current branch 
+
+merge conflicts possible 
+
+git pull command 
+
+git pull origin main 
