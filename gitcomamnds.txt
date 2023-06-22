@@ -1,0 +1,9 @@
+git log #shows the list of modified files 
+
+git log --path #shows the actual changes 
+
+git log -3 #show last 3 entries 
+
+git log --after="one week ago" #shows last week cahnges 
+
+git log --grep="GUI" #commits with GUL in there messages 
