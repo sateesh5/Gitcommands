@@ -1,5 +1,9 @@
 this is sateesh
 
+<<<<<<< HEAD
 working on git merge conflict
 
 welcome to Git world 
+=======
+working on git merge conflict
+>>>>>>> develop1
