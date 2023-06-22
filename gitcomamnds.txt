@@ -11,3 +11,9 @@ git log --grep="GUI" #commits with GUL in there messages
 git log --stat #shows list of modified files 
 
 git log --stat
+
+git init # Initializing the repo
+
+git add file.txt #stage a single file
+
+git add file1.txt file2.txt # stage multiple files
